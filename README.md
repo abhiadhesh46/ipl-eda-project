@@ -76,4 +76,4 @@ Dataset from Kaggle: [IPL Dataset (2008–2020)](https://www.kaggle.com/datasets
 ## 📬 Contact
 
 Got feedback or want to collaborate? Feel free to connect!  
-🔗 [LinkedIn](https://www.linkedin.com) | 📧 your.email@example.com  
+🔗 [LinkedIn]((https://www.linkedin.com/in/abhi-adhesh-g/)) | 📧abhiadhesh7@gmail.com
